@@ -20,8 +20,8 @@ gantt
     Business problem and objectives :a1, 2026-09-15, 2026-10-25
     Dataset review and validation :a2, 2026-10-01, 2026-11-15
     Literature review :a3, 2026-10-15, 2026-12-15
-    Exploratory data analysis :a4, 2026-11-01, 2027-01-15
-    Methodology and project planning :a5, 2026-10-01, 2027-01-20
+    Exploratory data analysis :a4, 2026-11-01, 2026-12-20
+    Methodology and project planning :a5, 2026-10-01, 2026-12-20
 
     section Semester 2
     Data preparation and feature engineering :b1, 2027-02-01, 2027-03-15
