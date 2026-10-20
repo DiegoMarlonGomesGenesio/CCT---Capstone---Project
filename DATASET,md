@@ -1,0 +1,36 @@
+# Dataset Documentation
+
+## Dataset Information
+
+**Name:** Power Consumption of Tetouan City
+**Source:** UCI Machine Learning Repository
+**Source URL:** https://archive.ics.uci.edu/dataset/849/power+consumption+
+**Licence:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Dataset Structure
+
+The CSV contains 52,416 observations and 9 columns, covering 1 January to 30 December 2017, with measurements every 10 minutes.
+
+## Variables
+
+- DateTime
+- Temperature
+- Humidity
+- Wind Speed
+- General Diffuse Flows
+- Diffuse Flows
+- Zone 1 Power Consumption
+- Zone 2 Power Consumption
+- Zone 3 Power Consumption
+
+## Project Relevance
+
+The dataset will support the analysis of electricity consumption patterns and the development of one-hour-ahead forecasting models to anticipate peak-demand periods.
+
+## Initial Data Quality Assessment
+
+The initial inspection found no missing values or duplicate timestamps. Measurements follow a regular ten-minute interval.
+
+## Limitations
+
+The dataset covers a single city and one year. It does not contain electricity prices, infrastructure capacity or outage records.
