@@ -15,6 +15,13 @@ The objective is to forecast electricity demand one hour ahead and identify pote
 - Examine relationships between consumption and weather variables.
 - Create time-based features and lagged consumption features.
 - Define the forecasting target as electricity demand one hour ahead.
+  
+### Proposed Forecasting Features
+The initial features will include previous electricity consumption (1, 2 and 24 hours earlier), rolling consumption averages, hour of day and day of week.
+
+Temperature and humidity may also be considered if these values are available or forecast at prediction time.
+
+The target variable will be electricity consumption one hour ahead for each distribution zone. Linear Regression and Random Forest will initially use the same features for a fair comparison. All features will be constructed using only information available before the forecasted period to prevent data leakage.
 
 ## 3. Predictive Modelling
 Three approaches will be compared:
