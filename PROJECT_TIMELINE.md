@@ -23,12 +23,13 @@ gantt
     Exploratory data analysis :a4, 2026-11-01, 2026-12-20
     Methodology and project planning :a5, 2026-10-01, 2026-12-20
 
-    section Semester 2
-    Data preparation and feature engineering :b1, 2027-02-01, 2027-03-15
-    Baseline and predictive modelling :b2, 2027-03-01, 2027-04-30
-    Model evaluation and peak detection :b3, 2027-04-15, 2027-05-31
-    Visualisations and dashboard :b4, 2027-05-15, 2027-06-30
-    Final report and presentation :b5, 2027-06-15, 2027-08-15
+section Semester 2
+Data preparation and feature engineering :b1, 2027-02-01, 2027-02-28
+Baseline and predictive modelling :b2, 2027-03-01, 2027-03-31
+Model evaluation and peak detection :b3, 2027-04-01, 2027-04-15
+Visualisations and dashboard :b4, 2027-04-01, 2027-04-20
+Final report preparation :b5, 2027-04-15, 2027-04-30
+Presentation :b6, 2027-05-01, 2027-05-21
 ```
 
 ## Semester 1: Research and Planning
