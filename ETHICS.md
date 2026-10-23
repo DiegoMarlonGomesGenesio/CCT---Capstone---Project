@@ -33,3 +33,11 @@ The project is intended for academic research and demonstration of decision supp
 
 ## Academic Integrity and AI Use
 All external sources will be cited appropriately. Any use of generative AI to support planning, drafting or reviewing project materials will be disclosed in the separate AI-use declaration required for the assessment. The student remains responsible for reviewing and understanding the submitted work.
+
+## EU Artificial Intelligence Act (EU AI Act)
+
+The project will use machine learning to investigate short-term electricity demand forecasting. The EU AI Act will be considered when assessing transparency, reliability, human oversight and potential risks. This academic prototype is not intended for deployment in critical infrastructure. Any future operational deployment would require a separate assessment of the applicable regulatory obligations, including whether the system qualifies as high-risk AI.
+
+## Digital Services Act (DSA)
+
+The Digital Services Act primarily regulates certain online intermediary services and platforms. As this project focuses on analysing a public electricity consumption dataset and developing an academic forecasting prototype, the DSA is not expected to apply directly. Its relevance will be reconsidered if the project's scope changes to include a regulated online service.
